@@ -1,0 +1,152 @@
+Protein-Protein-Drug Cycles for Heat Shock Protein beta-1:
+
+Cycle 1:
+D0 (drug) -> CHEMBL1989043
+P1 (protein) -> P35226
+P0 (protein) -> P04792
+
+Cycle 2:
+D0 (drug) -> CHEMBL1989043
+P2 (protein) -> P11511
+P0 (protein) -> P04792
+
+Cycle 3:
+D0 (drug) -> CHEMBL1989043
+P3 (protein) -> Q92731
+P0 (protein) -> P04792
+
+Cycle 4:
+D0 (drug) -> CHEMBL1989043
+P4 (protein) -> Q8WUI4
+P0 (protein) -> P04792
+
+Cycle 5:
+D0 (drug) -> CHEMBL1989043
+P6 (protein) -> O15379
+P0 (protein) -> P04792
+
+Cycle 6:
+D0 (drug) -> CHEMBL1989043
+P8 (protein) -> Q06187
+P0 (protein) -> P04792
+
+Cycle 7:
+D1 (drug) -> CHEMBL5079093
+P1 (protein) -> P35226
+P0 (protein) -> P04792
+
+Cycle 8:
+D0 (drug) -> CHEMBL1989043
+P5 (protein) -> Q16790
+P0 (protein) -> P04792
+
+Cycle 9:
+D0 (drug) -> CHEMBL1989043
+P7 (protein) -> Q9UQL6
+P0 (protein) -> P04792
+
+Cycle 10:
+D0 (drug) -> CHEMBL1989043
+P9 (protein) -> P42336
+P0 (protein) -> P04792
+
+Cycle 11:
+D0 (drug) -> CHEMBL1989043
+P10 (protein) -> Q92769
+P0 (protein) -> P04792
+
+Cycle 12:
+D1 (drug) -> CHEMBL5079093
+P2 (protein) -> P11511
+P0 (protein) -> P04792
+
+Cycle 13:
+D0 (drug) -> CHEMBL1989043
+P15 (protein) -> P56524
+P0 (protein) -> P04792
+
+Cycle 14:
+D0 (drug) -> CHEMBL1989043
+P12 (protein) -> Q9UBN7
+P0 (protein) -> P04792
+
+Cycle 15:
+D0 (drug) -> CHEMBL1989043
+P18 (protein) -> Q13547
+P0 (protein) -> P04792
+
+Cycle 16:
+D1 (drug) -> CHEMBL5079093
+P3 (protein) -> Q92731
+P0 (protein) -> P04792
+
+Cycle 17:
+D1 (drug) -> CHEMBL5079093
+P4 (protein) -> Q8WUI4
+P0 (protein) -> P04792
+
+Cycle 18:
+D0 (drug) -> CHEMBL1989043
+P13 (protein) -> Q9NZQ7
+P0 (protein) -> P04792
+
+Cycle 19:
+D0 (drug) -> CHEMBL1989043
+P19 (protein) -> P03372
+P0 (protein) -> P04792
+
+Cycle 20:
+D0 (drug) -> CHEMBL1989043
+P16 (protein) -> P16234
+P0 (protein) -> P04792
+
+Cycle 21:
+D0 (drug) -> CHEMBL1989043
+P11 (protein) -> P10415
+P0 (protein) -> P04792
+
+Cycle 22:
+D0 (drug) -> CHEMBL1989043
+P14 (protein) -> P01116
+P0 (protein) -> P04792
+
+Cycle 23:
+D2 (drug) -> CHEMBL4859660
+P1 (protein) -> P35226
+P0 (protein) -> P04792
+
+Cycle 24:
+D1 (drug) -> CHEMBL5079093
+P6 (protein) -> O15379
+P0 (protein) -> P04792
+
+Cycle 25:
+D0 (drug) -> CHEMBL1989043
+P17 (protein) -> P12931
+P0 (protein) -> P04792
+
+Cycle 26:
+D1 (drug) -> CHEMBL5079093
+P8 (protein) -> Q06187
+P0 (protein) -> P04792
+
+Cycle 27:
+D0 (drug) -> CHEMBL1989043
+P20 (protein) -> Q9UNQ0
+P0 (protein) -> P04792
+
+Cycle 28:
+D1 (drug) -> CHEMBL5079093
+P5 (protein) -> Q16790
+P0 (protein) -> P04792
+
+Cycle 29:
+D1 (drug) -> CHEMBL5079093
+P7 (protein) -> Q9UQL6
+P0 (protein) -> P04792
+
+Cycle 30:
+D1 (drug) -> CHEMBL5079093
+P9 (protein) -> P42336
+P0 (protein) -> P04792
+

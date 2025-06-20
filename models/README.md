@@ -1,0 +1,1 @@
+Each file model_x.pth contains the weights of a model trained on x dimension input data.

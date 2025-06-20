@@ -1,0 +1,97 @@
+Protein-Protein-Drug Cycles for Matrix Metalloproteinase-9:
+
+Cycle 1:
+P0 (protein) -> P14780
+D16 (drug) -> CHEMBL5178230
+P14 (protein) -> P01130
+
+Cycle 2:
+P0 (protein) -> P14780
+D19 (drug) -> CHEMBL4875751
+P14 (protein) -> P01130
+
+Cycle 3:
+P0 (protein) -> P14780
+D18 (drug) -> CHEMBL4865310
+P14 (protein) -> P01130
+
+Cycle 4:
+P0 (protein) -> P14780
+D13 (drug) -> CHEMBL4780986
+P14 (protein) -> P01130
+
+Cycle 5:
+P0 (protein) -> P14780
+D12 (drug) -> CHEMBL4878122
+P14 (protein) -> P01130
+
+Cycle 6:
+P0 (protein) -> P14780
+D15 (drug) -> CHEMBL4873117
+P14 (protein) -> P01130
+
+Cycle 7:
+P0 (protein) -> P14780
+D14 (drug) -> CHEMBL2348350
+P14 (protein) -> P01130
+
+Cycle 8:
+P0 (protein) -> P14780
+D11 (drug) -> CHEMBL451887
+P14 (protein) -> P01130
+
+Cycle 9:
+P0 (protein) -> P14780
+D10 (drug) -> CHEMBL5284722
+P14 (protein) -> P01130
+
+Cycle 10:
+P0 (protein) -> P14780
+D9 (drug) -> CHEMBL4867844
+P14 (protein) -> P01130
+
+Cycle 11:
+P0 (protein) -> P14780
+D7 (drug) -> CHEMBL4871593
+P14 (protein) -> P01130
+
+Cycle 12:
+P0 (protein) -> P14780
+D8 (drug) -> CHEMBL4793380
+P14 (protein) -> P01130
+
+Cycle 13:
+P0 (protein) -> P14780
+D6 (drug) -> CHEMBL4859660
+P14 (protein) -> P01130
+
+Cycle 14:
+P0 (protein) -> P14780
+D5 (drug) -> CHEMBL601719
+P14 (protein) -> P01130
+
+Cycle 15:
+P0 (protein) -> P14780
+D4 (drug) -> CHEMBL4867931
+P14 (protein) -> P01130
+
+Cycle 16:
+P0 (protein) -> P14780
+D3 (drug) -> CHEMBL4739883
+P14 (protein) -> P01130
+
+Cycle 17:
+P0 (protein) -> P14780
+D2 (drug) -> CHEMBL4522930
+P14 (protein) -> P01130
+
+Cycle 18:
+P0 (protein) -> P14780
+D1 (drug) -> CHEMBL4855730
+P14 (protein) -> P01130
+
+Cycle 19:
+P0 (protein) -> P14780
+D0 (drug) -> CHEMBL4868141
+P14 (protein) -> P01130
+

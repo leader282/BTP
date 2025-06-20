@@ -1,0 +1,97 @@
+Protein-Protein-Drug Cycles for Heat Shock Protein beta-1:
+
+Cycle 1:
+P0 (protein) -> P04792
+D18 (drug) -> CHEMBL3759501
+P19 (protein) -> Q9NRM7
+
+Cycle 2:
+P0 (protein) -> P04792
+D16 (drug) -> CHEMBL5089410
+P19 (protein) -> Q9NRM7
+
+Cycle 3:
+P0 (protein) -> P04792
+D17 (drug) -> CHEMBL4787157
+P19 (protein) -> Q9NRM7
+
+Cycle 4:
+P0 (protein) -> P04792
+D15 (drug) -> CHEMBL1421
+P19 (protein) -> Q9NRM7
+
+Cycle 5:
+P0 (protein) -> P04792
+D14 (drug) -> CHEMBL5270379
+P19 (protein) -> Q9NRM7
+
+Cycle 6:
+P0 (protein) -> P04792
+D13 (drug) -> CHEMBL4793380
+P19 (protein) -> Q9NRM7
+
+Cycle 7:
+P0 (protein) -> P04792
+D12 (drug) -> CHEMBL4874606
+P19 (protein) -> Q9NRM7
+
+Cycle 8:
+P0 (protein) -> P04792
+D11 (drug) -> CHEMBL5279082
+P19 (protein) -> Q9NRM7
+
+Cycle 9:
+P0 (protein) -> P04792
+D10 (drug) -> CHEMBL4859660
+P19 (protein) -> Q9NRM7
+
+Cycle 10:
+P0 (protein) -> P04792
+D9 (drug) -> CHEMBL5193039
+P19 (protein) -> Q9NRM7
+
+Cycle 11:
+P0 (protein) -> P04792
+D8 (drug) -> CHEMBL4860979
+P19 (protein) -> Q9NRM7
+
+Cycle 12:
+P0 (protein) -> P04792
+D7 (drug) -> CHEMBL1096450
+P19 (protein) -> Q9NRM7
+
+Cycle 13:
+P0 (protein) -> P04792
+D6 (drug) -> CHEMBL4868141
+P19 (protein) -> Q9NRM7
+
+Cycle 14:
+P0 (protein) -> P04792
+D5 (drug) -> CHEMBL5169393
+P19 (protein) -> Q9NRM7
+
+Cycle 15:
+P0 (protein) -> P04792
+D4 (drug) -> CHEMBL388978
+P19 (protein) -> Q9NRM7
+
+Cycle 16:
+P0 (protein) -> P04792
+D2 (drug) -> CHEMBL4855730
+P19 (protein) -> Q9NRM7
+
+Cycle 17:
+P0 (protein) -> P04792
+D1 (drug) -> CHEMBL4522930
+P19 (protein) -> Q9NRM7
+
+Cycle 18:
+P0 (protein) -> P04792
+D3 (drug) -> CHEMBL4867931
+P19 (protein) -> Q9NRM7
+
+Cycle 19:
+P0 (protein) -> P04792
+D0 (drug) -> CHEMBL2348350
+P19 (protein) -> Q9NRM7
+

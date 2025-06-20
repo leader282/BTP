@@ -1,0 +1,147 @@
+Protein-Protein-Drug Cycles for Matrix Metalloproteinase-2:
+
+Cycle 1:
+D0 (drug) -> CHEMBL4868141
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 2:
+D1 (drug) -> CHEMBL2334586
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 3:
+D2 (drug) -> CHEMBL388978
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 4:
+D3 (drug) -> CHEMBL4739883
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 5:
+D4 (drug) -> CHEMBL4781866
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 6:
+D5 (drug) -> CHEMBL4867931
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 7:
+D6 (drug) -> CHEMBL4855730
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 8:
+D7 (drug) -> CHEMBL5219971
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 9:
+D8 (drug) -> CHEMBL4522930
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 10:
+D9 (drug) -> CHEMBL5267092
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 11:
+D10 (drug) -> CHEMBL5272870
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 12:
+D11 (drug) -> CHEMBL3338349
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 13:
+D12 (drug) -> CHEMBL4859660
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 14:
+D13 (drug) -> CHEMBL4855726
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 15:
+D14 (drug) -> CHEMBL4860979
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 16:
+D15 (drug) -> CHEMBL4793380
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 17:
+D16 (drug) -> CHEMBL465843
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 18:
+D17 (drug) -> CHEMBL4867844
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 19:
+D18 (drug) -> CHEMBL5196378
+P0 (protein) -> P08253
+P20 (protein) -> P15056
+
+Cycle 20:
+P1 (protein) -> P01106
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
+Cycle 21:
+P4 (protein) -> P40763
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
+Cycle 22:
+P6 (protein) -> P09958
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
+Cycle 23:
+P7 (protein) -> P01111
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
+Cycle 24:
+P9 (protein) -> P42336
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
+Cycle 25:
+P10 (protein) -> P01116
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
+Cycle 26:
+P11 (protein) -> P30530
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
+Cycle 27:
+P14 (protein) -> Q9UM73
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
+Cycle 28:
+P15 (protein) -> Q04771
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
+Cycle 29:
+P18 (protein) -> P04626
+D19 (drug) -> CHEMBL4862424
+P0 (protein) -> P08253
+
